@@ -20,6 +20,7 @@ This Android project consists of two Java classes: `MainActivity.java` and `Scan
 ### 2.1 Main Activity
 - This is the initial screen displayed when the app is launched.
 - Contains a button labeled **"Scan QR Code"**.
+
 ![alt text](<screen 1.png>)
 ---
 
@@ -47,5 +48,6 @@ This Android project consists of two Java classes: `MainActivity.java` and `Scan
 ### 2.5 Example QR Code
 Below is an example QR code to test the app functionality:
 
-```
 ![alt text](test_qr_code.png)
+
+```
