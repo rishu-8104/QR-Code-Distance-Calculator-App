@@ -49,5 +49,3 @@ This Android project consists of two Java classes: `MainActivity.java` and `Scan
 Below is an example QR code to test the app functionality:
 
 ![alt text](test_qr_code.png)
-
-```
